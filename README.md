@@ -51,15 +51,16 @@
 	OrcaStars businesses, and learn what each one does for the environment 
 	to preserve the orca population.
 	
-	3. Despite frequenting The Green Bean, a carbon-neutral cafe, Mike 
-	knows that he could probably contribute to a sustainable future in 
-	more impactful ways. Noticing a flyer at his preferred coffee 
-	establishment, he scans a QR code, taking him to the App/Play Store 
-	where he downloads OrcaStars. Curious what a zero emissions latte has 
-	to do with Orcinus orca, he navigates to the “About” section on his 
-	device. Mike scrolls through information about Orca Conservancy and 
-	the OrcaStars program, has his questions answered, and is excited to 
-	check out other OrcaStars businesses.
+	3. Mike likes to visit the The Green Bean, a carbon-neutral café, but 
+	wishes that he knew about more than just one “green” business. On his 
+	most recent visit, he notices a flyer for “OrcaStars”, and that The 
+	Green Bean is a member. He scans a QR code on the pamphlet, taking him 
+	to the download page for the OrcaStars App. Wondering how a zero 
+	emissions latté has a connection to orcas, he navigates to the “About” 
+	section on the app. He scrolls through information about the Orca 
+	Conservancy and the OrcaStars program, where his questions are answered 
+	and then some. He is happy to have found such a good resource for 
+	finding more establishments like The Green Bean.
 
 
 
